@@ -1,0 +1,6 @@
+framework module GestureKit {
+  umbrella header "GestureKit.h"
+
+  export *
+  module * { export * }
+}

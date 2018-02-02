@@ -1,0 +1,9 @@
+platform:ios,'8.0'
+target 'GestureRecognizerTest' do
+pod 'AFNetworking'
+pod 'SDAutoLayout','~>2.1.3'
+pod 'SDWebImage','~> 4.0.0-beta2'
+pod 'AGGeometryKit+POP', '~> 0.1'
+pod 'MJRefresh','~>3.1.12'
+pod 'MJExtension'
+end
